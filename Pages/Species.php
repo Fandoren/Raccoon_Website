@@ -27,7 +27,7 @@
                         <a class="nav-item nav-link text-light " href="Species.php">Виды</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="#">Зоопарки</a>
+                        <a class="nav-item nav-link text-light " href="Zoo.php">Зоопарки</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-item nav-link text-light " href="#">Форум</a>

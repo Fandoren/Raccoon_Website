@@ -7,15 +7,31 @@
 }
 
 body{
-    padding-top: 30px;
+    padding-top: 1px;
 }
 .main-header{
     background: rgb(34, 34, 34);
+}
+.fill-height { 
+    flex-grow: 1; 
+    width: 100%; 
+}
+.first-row{
+    padding-top: 3%;
 }   
 .content, .container-fluid{
+    padding-top: 1%;
     background: rgb(41, 41, 41);
     overflow-y:auto;
     color: #fff;
+}
+.bg-content
+{
+    background: rgb(41, 41, 41);
+}
+.bg-darker
+{
+    background: rgb(34, 34, 34);
 }
 .foot{
     background: rgb(34, 34, 34);

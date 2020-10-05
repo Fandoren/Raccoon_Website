@@ -12,35 +12,36 @@
     <title>Милые еноты!</title>
 </head>
 <body>
-<header>
-        <nav id="navbar-main" class="mobile-offcanvas navbar navbar-expand-md main-header fixed-top">
-            <a class="navbar-brand text-light " href="#"><h3><i class="fa fa-paw"></i> Еноты</h3></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon text-light"><i class="fa fa-bars"></i></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link text-light " href="index.php">Главная</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="Species.php">Виды</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="Zoo.php">Зоопарки</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="#">Форум</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="#">О нас</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </header>
-    <div class="container-fluid content">
-        <div class="row">
+<div class="wrapper">
+    <header>
+            <nav id="navbar-main" class="mobile-offcanvas navbar navbar-expand-md main-header fixed-top">
+                <a class="navbar-brand text-light " href="#"><h3><i class="fa fa-paw"></i> Еноты</h3></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon text-light"><i class="fa fa-bars"></i></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-light " href="index.php">Главная</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link text-light " href="Species.php">Виды</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link text-light " href="Zoo.php">Зоопарки</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link text-light " href="#">Форум</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-item nav-link text-light " href="#">О нас</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+    </header> 
+    <div class="container-fluid content fill-height">
+        <div class="row row-eq-height">
                 <div class="col-lg-8 col-md-12 my-auto content">
                         <h1>
                             Енот-полоскун
@@ -89,7 +90,7 @@
             </div>
         </div>
         <hr class="separator" color="red" >
-        <div class="row">
+        <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
                     Енот-ракоед
@@ -113,7 +114,7 @@
             </div>
         </div>
         <hr class="separator" color="red" >
-        <div class="row">
+        <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
                     Косумельский енот
@@ -135,7 +136,7 @@
             </div>
         </div>
         <hr class="separator" color="red" >
-        <div class="row">
+        <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
                     Гваделупский енот
@@ -193,6 +194,7 @@
 
                 </div>
             </div>
-    </footer>
+        </footer>
+</div>
 </body>
 </html>

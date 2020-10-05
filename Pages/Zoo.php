@@ -39,18 +39,19 @@
                 </div>
             </nav>
         </header>
-        <div class="container-fluid content">
+        <div class="container-fluid content fill-height">
             <div class="row-fluid first-row">
-                <div class="accordion" id="accordionExample">
+                <div id="accordion">
                     <div class="card bg-darker">
                         <div class="card-header" id="headingOne">
                         <h5 class="mb-0">
-                            <button class="bg-darker text-light btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <button class="btn btn-link bg-darker text-light" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             Санкт-Петербург
                             </button>
                         </h5>
                         </div>
-                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                             <div class="card-body bg-content">
                                 <ul class="list-unstyled">
                                 <li><a class="text-light" href="#">Ленинградский зоопарк</a></li>
@@ -63,12 +64,12 @@
                     <div class="card bg-darker">
                         <div class="card-header" id="headingTwo">
                         <h5 class="mb-0">
-                            <button class="bg-darker text-light btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                            <button class="bg-darker text-light btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             Москва
                             </button>
                         </h5>
                         </div>
-                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body bg-content">
                                 <ul class="list-unstyled">
                                 <li><a class="text-light" href="#">Московский зоопарк</a></li>
@@ -81,12 +82,12 @@
                     <div class="card bg-darker">
                         <div class="card-header" id="headingThree">
                         <h5 class="mb-0">
-                            <button class="bg-darker text-light btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                            <button class="btn btn-link collapsed bg-darker text-light" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             Остальная Россия
                             </button>
                         </h5>
                         </div>
-                        <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body bg-content">
                                 <ul class="list-unstyled">
                                 <li><a class="text-light" href="#">Новосибирский зоопарк имени Р.А. Шило</a></li>
@@ -99,37 +100,27 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                    </div>
             </div>
         </div>
         <footer>
                 <div class="container-fluid text-center text-md-left foot">
-
                     <div class="row">
-
                         <div class="col-md-6 mt-md-0 mt-3">
-
                             <h5 class="text-uppercase">Какая-то общая информация</h5>
                             <p>Сайт очень классный, мне нравится. Его, кстати, сделал очень крутой человек, в 581 группе учится, вот.</p>
-
                         </div>
-
                         <hr class="clearfix w-100 d-md-none pb-3">
-
-                            <div class="col-md-3 mb-md-0 mb-3">
-
-                                <h5 class="text-uppercase">Ссылки</h5>
-
-                                <ul class="list-unstyled">
+                        <div class="col-md-3 mb-md-0 mb-3">
+                           <h5 class="text-uppercase">Ссылки</h5>
+                           <ul class="list-unstyled">
                                 <li>
                                     <a class="text-white" href="#!"><img class="link-icon" src="../Resources/Vkontakte.png"> Вконтакте </a>
                                 </li>
                                 </ul>
-
-                            </div>
-
+                        </div>
                     </div>
                 </div>
-        </footer>
+            </footer>
     </body>
 </html>

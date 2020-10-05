@@ -39,7 +39,7 @@
             </div>
         </nav>
     </header>
-    <div class="container-fluid content">
+    <div class="container-fluid content fill-height">
         <div class="row">
                 <div class="col-lg-8 col-md-12 my-auto content">
                         <h1>
@@ -90,8 +90,7 @@
                     <img src="../Resources/Raccoon_Tongue.jpg" class="img-fluid mx-auto d-block rounded rac" alt="Классный енот">
             </div>
         </div>
-    </div>
-    <footer>
+        <footer>
             <div class="container-fluid text-center text-md-left foot">
 
                 <div class="row">
@@ -116,9 +115,9 @@
                             </ul>
 
                         </div>
-
                 </div>
             </div>
-    </footer>
+        </footer>
+    </div>
 </body>
 </html>

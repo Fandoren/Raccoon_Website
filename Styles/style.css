@@ -45,6 +45,9 @@ body{
 }
 .separator{
     margin: 1% 3%;
+
+    color: #E78D14;
+    background-color: #E78D14;
 }
 h1{
     padding: 1% 0;

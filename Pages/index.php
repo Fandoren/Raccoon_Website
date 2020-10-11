@@ -27,7 +27,7 @@
                     <img src="../Resources/Raccoon_Poloskaet.jpg" class="img-fluid rounded mx-auto d-block rac" alt="Классный енот">
                 </div>
         </div>
-        <hr class="separator" color="red" >
+        <hr class="separator">
         <div class="row">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>

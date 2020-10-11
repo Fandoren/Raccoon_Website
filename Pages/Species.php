@@ -25,7 +25,7 @@
                     <img src="../Resources/Raccoon_Poloskaet.jpg" class="img-fluid rounded mx-auto d-flex rac" alt="Классный енот">
                 </div>
         </div>
-        <hr class="separator" color="red" >
+        <hr class="separator">
         <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
@@ -50,7 +50,7 @@
                     <img src="../Resources/Bagama_Raccoon.jpg" class="img-fluid mx-auto d-flex rounded rac" alt="Классный енот">
             </div>
         </div>
-        <hr class="separator" color="red" >
+        <hr class="separator">
         <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
@@ -74,7 +74,7 @@
                     <img src="../Resources/Raccoon_Rac.jpg" class="img-fluid mx-auto d-flex rounded rac" alt="Классный енот">
             </div>
         </div>
-        <hr class="separator" color="red" >
+        <hr class="separator">
         <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>
@@ -96,7 +96,7 @@
                     <img src="../Resources/Raccoon_Cosumel.jpg" class="img-fluid mx-auto d-block rounded rac" alt="Классный енот">
             </div>
         </div>
-        <hr class="separator" color="red" >
+        <hr class="separator">
         <div class="row row-eq-height">
             <div class="col-lg-8 col-md-12 my-auto content">
                 <h1>

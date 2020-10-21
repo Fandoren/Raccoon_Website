@@ -30,7 +30,7 @@
                         <a class="nav-item nav-link text-light " href="Zoo.php">Зоопарки</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-item nav-link text-light " href="#">Форум</a>
+                        <a class="nav-item nav-link text-light " href="Forum.php">Форум</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-item nav-link text-light " href="#">О нас</a>

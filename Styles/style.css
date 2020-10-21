@@ -49,8 +49,29 @@ body{
     color: #E78D14;
     background-color: #E78D14;
 }
+.carousel-item {
+    height: 450px;
+}
+.carousel-inner img {
+    margin: auto;
+  }
 h1{
     padding: 1% 0;
+}
+.table-header{
+    background-color: rgb(34, 34, 34);
+}
+.table-body{
+    background-color: rgb(71, 71, 71);
+}
+.table-body tr td,.table-body tr th{
+    vertical-align: middle;
+    cursor: pointer;
+}
+.forum-button{
+    background-color:rgb(78, 78, 78);
+    color: white;
+    margin-bottom: 10px;
 }
 .link-icon{
     max-width: 25px;

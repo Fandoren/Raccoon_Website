@@ -2,8 +2,8 @@
     include_once 'header.php';
 ?>
     <div class="container-fluid content">
-        <div class="row row-eq-height">
-                <div class="col-lg-8 col-md-12 my-auto content">
+        <div class="row row-eq-height first-row">
+                <div class="col-xl-8 my-auto content">
                         <h1>
                             Енот-полоскун
                         </h1>
@@ -21,13 +21,13 @@
                         Широко распространился енот и в дельте Волги.
                         </p>
                 </div>
-                <div class="col-lg-4 my-auto">
+                <div class="my-auto col-xl-4">
                     <img src="../Resources/Raccoon_Poloskaet.jpg" class="img-fluid rounded mx-auto d-flex rac" alt="Классный енот">
                 </div>
         </div>
         <hr class="separator">
         <div class="row row-eq-height">
-            <div class="col-lg-8 col-md-12 my-auto content">
+            <div class="col-xl-8 my-auto content">
                 <h1>
                     Багамский енот
                 </h1>
@@ -46,13 +46,13 @@
                 Однако до сих пор сколь-нибудь эффективные меры для сохранения данного вида не предпринимаются.
                 </p>
             </div>
-            <div class="col-lg-4 my-auto">
+            <div class="my-auto col-xl-4">
                     <img src="../Resources/Bagama_Raccoon.jpg" class="img-fluid mx-auto d-flex rounded rac" alt="Классный енот">
             </div>
         </div>
         <hr class="separator">
         <div class="row row-eq-height">
-            <div class="col-lg-8 col-md-12 my-auto content">
+            <div class="col-xl-8 my-auto content">
                 <h1>
                     Енот-ракоед
                 </h1>
@@ -70,13 +70,13 @@
                 Живут еноты-ракоеды в дикой природе более 5 лет.
                 </p>
             </div>
-            <div class="col-lg-4 my-auto">
+            <div class="my-auto col-xl-4">
                     <img src="../Resources/Raccoon_Rac.jpg" class="img-fluid mx-auto d-flex rounded rac" alt="Классный енот">
             </div>
         </div>
         <hr class="separator">
         <div class="row row-eq-height">
-            <div class="col-lg-8 col-md-12 my-auto content">
+            <div class="col-xl-8 my-auto content">
                 <h1>
                     Косумельский енот
                 </h1>
@@ -92,13 +92,13 @@
                 Из растительной пищи питается плодами манилкары и Pithecellobium и травой просо.
                 </p>
             </div>
-            <div class="col-lg-4 my-auto">
+            <div class="my-auto col-xl-4">
                     <img src="../Resources/Raccoon_Cosumel.jpg" class="img-fluid mx-auto d-block rounded rac" alt="Классный енот">
             </div>
         </div>
         <hr class="separator">
         <div class="row row-eq-height">
-            <div class="col-lg-8 col-md-12 my-auto content">
+            <div class="col-xl-8 my-auto content">
                 <h1>
                     Гваделупский енот
                 </h1>
@@ -122,7 +122,7 @@
                 Длина его тела — 50-60 см, хвост у него пушистый с 5-6 чёрными кольцами, всё тело покрыто густым мехом, а на голове «чёрная маска».
                 </p>
             </div>
-            <div class="col-lg-4 my-auto">
+            <div class="my-auto col-xl-4">
                     <img src="../Resources/Raccoon_Gvadelup.jpg" class="img-fluid mx-auto d-flex rounded rac" alt="Классный енот">
             </div>
         </div>

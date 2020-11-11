@@ -3,8 +3,8 @@
 ?>
 
     <div class="container-fluid content fill-height">
-        <div class="row">
-                <div class="col-lg-8 col-md-12 my-auto content">
+        <div class="row first-row">
+                <div class="col-xl-8 my-auto content">
                         <h1>
                             Основное
                         </h1>
@@ -23,13 +23,13 @@
                         так же называется звезда Процион в созвездии Малого Пса.
                         </p>
                 </div>
-                <div class="my-auto col-lg-4">
-                    <img src="../Resources/Raccoon_Poloskaet.jpg" class="img-fluid rounded mx-auto d-block rac" alt="Классный енот">
+                <div class="my-auto col-xl-4">
+                    <img src="../Resources/Raccoon_Poloskaet.jpg" class="img-fluid mx-auto rounded d-block rac" alt="Классный енот">
                 </div>
         </div>
         <hr class="separator">
         <div class="row">
-            <div class="col-lg-8 col-md-12 my-auto content">
+            <div class="col-xl-8 my-auto content">
                 <h1>
                     Подробнее
                 </h1>
@@ -49,7 +49,7 @@
                 Этот симпатичный зверёк с лукавой, остренькой мордочкой стал героем множества комиксов и мультфильмов.
                 </p> 
             </div>
-            <div class="my-auto col-lg-4 ">
+            <div class="my-auto col-xl-4 ">
                     <img src="../Resources/Raccoon_Tongue.jpg" class="img-fluid mx-auto d-block rounded rac" alt="Классный енот">
             </div>
         </div>
